@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd04467e730cc4b42bc989e2a1f9c38b, type: 3}
+  m_Name: DefaultGun
+  m_EditorClassIdentifier: 
+  type: 0
+  rate: 0.15
+  maxAmmo: 10
+  damageValue: 1
+  defaultWeapon: 1
+  muzzleFX: {fileID: 1743301284569550, guid: 193d69a26fb335b47b144c2a48ee7f6b, type: 3}
+  gunShotSfx:
+    id: 0
+  reloadSfx:
+    id: 1
+  emptySfx:
+    id: 1
+  reloadWarningSfx:
+    id: 5
+  fxScale: 0.1
+  weaponIcon: {fileID: 21300000, guid: 1b0658840713f8445824656b068f1925, type: 3}
