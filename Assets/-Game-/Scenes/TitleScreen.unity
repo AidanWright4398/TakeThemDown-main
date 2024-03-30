@@ -6411,6 +6411,37 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 209800098}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &210064842
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 210064843}
+  m_Layer: 0
+  m_Name: Music
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &210064843
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 210064842}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &211652869
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -65294,7 +65325,7 @@ PrefabInstance:
     - target: {fileID: 4430085325872935041, guid: a2448e1bde8c5264984859d3d486ca72,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4430085325995711151, guid: a2448e1bde8c5264984859d3d486ca72,
         type: 3}
@@ -66668,3 +66699,4 @@ SceneRoots:
   - {fileID: 1819930988}
   - {fileID: 1097848434}
   - {fileID: 1122119131}
+  - {fileID: 210064843}
