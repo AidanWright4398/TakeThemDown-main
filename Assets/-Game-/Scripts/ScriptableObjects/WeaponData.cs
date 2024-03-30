@@ -75,7 +75,7 @@ public class WeaponData : ScriptableObject
             }
         }
 
-        if (defaultWeapon && Input.GetMouseButtonDown(1))
+        if (defaultWeapon && Input.GetKeyDown(KeyCode.R))
         {
             currentAmmo = maxAmmo;
             AudioPlayer.Instance.PlaySFX(reloadSfx, player.transform);
