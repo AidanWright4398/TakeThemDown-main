@@ -53,3 +53,8 @@ MonoBehaviour:
     - {fileID: 8300000, guid: 25682cb72fc019e4e97e29569f22c798, type: 3}
     minPitch: 0.9
     maxPitch: 1.1
+  - audioName: MainMenu
+    audioClips:
+    - {fileID: 8300000, guid: 600a8aa9b8e58df47953536f3b3fefbe, type: 3}
+    minPitch: 1
+    maxPitch: 1
