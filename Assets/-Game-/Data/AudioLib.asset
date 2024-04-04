@@ -20,7 +20,7 @@ MonoBehaviour:
     maxPitch: 1.1
   - audioName: Reload
     audioClips:
-    - {fileID: 8300000, guid: e92a83bd4c64cc24ab3d98c55bf96284, type: 3}
+    - {fileID: 8300000, guid: 521f9f2b18ee87c459fcc64a52f96b4a, type: 3}
     minPitch: 0.9
     maxPitch: 1.1
   - audioName: BGM
@@ -53,7 +53,7 @@ MonoBehaviour:
     - {fileID: 8300000, guid: 25682cb72fc019e4e97e29569f22c798, type: 3}
     minPitch: 0.9
     maxPitch: 1.1
-  - audioName: MainMenu
+  - audioName: Level2
     audioClips:
     - {fileID: 8300000, guid: 600a8aa9b8e58df47953536f3b3fefbe, type: 3}
     minPitch: 1

@@ -15,7 +15,7 @@ MonoBehaviour:
   type: 1
   rate: 0.15
   maxAmmo: 30
-  damageValue: 10
+  damageValue: 3
   defaultWeapon: 0
   muzzleFX: {fileID: 1743301284569550, guid: 193d69a26fb335b47b144c2a48ee7f6b, type: 3}
   gunShotSfx:

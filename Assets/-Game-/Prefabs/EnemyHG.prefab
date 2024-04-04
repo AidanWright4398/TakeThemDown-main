@@ -172,7 +172,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fcb960e1e6b070479fb43650274d08b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 1
+  maxHealth: 2
   targetPos: {fileID: 0}
   interval:
     min: 1.5
